@@ -17,5 +17,3 @@ Notes é um projeto sendo desenvolvido para fixar conhecimentos em Laravel, onde
 - MySQL.
 
 O projeto tem o intuito de ser um "gerenciador de anotações", permitindo que os seus usuários possam guardar anotações vinculadas à seus acessos, os quais poderão acessar de quaisquer lugar.
-
-:rocket: Ainda em desenvolvimento...
